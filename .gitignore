@@ -1,0 +1,18 @@
+﻿# Python virtual environment
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local secrets
+.streamlit/secrets.toml
+
+# Windows and macOS files
+Thumbs.db
+.DS_Store
